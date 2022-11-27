@@ -2,9 +2,9 @@
 <%@ page import="java.sql.*" %>
 
 <%
-  String url = "jdbc:mysql://localhost:3306/javadb";
-  String uid = "test1";
-  String upw = "java505";
+  String url = "jdbc:mysql://localhost:3306/mydb";
+  String uid = "root";
+  String upw = "1234";
 
   Class.forName("com.mysql.cj.jdbc.Driver");
 %>

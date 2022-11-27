@@ -12,7 +12,6 @@
 </head>
 <body>
 <%@ include file="dbconn.jsp"%>
-
 <header class="container mt-3">
     <div class="p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid py-4">

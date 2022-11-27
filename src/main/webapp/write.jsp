@@ -21,7 +21,7 @@
 <header class="container mt-3">
     <div class="p-5 mb-4 bg-light rounded-3">
         <div class="container-fluid py-1">
-            <h1 class="text-center">게시물 글쓰기 페이지</h1>
+            <h1 class="text-center">게시물 글쓰기 페이지2</h1>
         </div>
     </div>
 </header>
